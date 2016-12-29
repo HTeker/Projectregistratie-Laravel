@@ -1,0 +1,1 @@
+C:\wamp\www\laravelapp\app/views/teachers/show.blade.php
